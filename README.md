@@ -1,19 +1,20 @@
 ## Hello World 👋 I'm Shahrul!
 
 <br/>
-<br/>
 
 
-<a href="https://www.linkedin.com/in/shahrul-nasir-a7308b122/">
-<img align="left" alt="Shahrul Nasir" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
 
 
-<br />
+
+
+
 
 Hi, I'm Shahrul Nasir🙌, a full-stack developer. I've recently completed a Diploma of IT with Coder Academy and am looking to start my journey within the tech industry and create something exciting!
 
-
+<br />
+<a href="https://www.linkedin.com/in/shahrul-nasir-a7308b122/">
+<img align="left" alt="Shahrul Nasir" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 **Languages and Tools:**
 
